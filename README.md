@@ -4,6 +4,7 @@
   <img src="https://conversed.ai/wp-content/uploads/2025/04/RAG-Conversed.ai_.jpg" alt="RAG System Diagram" width="600"/>
 </p>
 ---
+
 ### ► Project Overview
 
 This project implements a foundational Retrieval-Augmented Generation (RAG) system using Python and components from Hugging Face Transformers. It demonstrates how to combine information retrieval with question answering to provide more accurate and contextually relevant responses.
