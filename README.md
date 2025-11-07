@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://conversed.ai/wp-content/uploads/2025/04/RAG-Conversed.ai_.jpg" alt="RAG System Diagram" width="600"/>
 </p>
----
 
 ### ► Project Overview
 
